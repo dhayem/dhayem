@@ -1,0 +1,6 @@
+- 👋 Hi, I’m David
+- 👀 I’m interested in ... trying to write clean code.
+- 🌱 I’m currently learning to code with Python(but really because I have to), Go, Rust ...
+- 💞️ I’m looking to collaborate on ... nothing at the moment, but who knows ...
+- 📫 How to reach me : dhayem@yahoo.fr
+
